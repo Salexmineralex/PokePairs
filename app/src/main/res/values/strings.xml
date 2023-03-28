@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokePairs</string>
+    <string name="Comenzar">Comenzar</string>
+    <string name="Facil">Easy</string>
+    <string name="Medio">Medium</string>
+    <string name="Dificil">Hard</string>
+    <string name="MenuPrincipal">Menu Principal</string>
+    <string name="Volver">Volver</string>
+</resources>
